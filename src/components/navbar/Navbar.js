@@ -28,6 +28,9 @@ const Navbar = () => {
                             <li class="nav-item">
                                 <Link class="nav-link active" aria-current="page" to="/colourfullEye">3.Colourfull Eyes</Link>
                             </li>
+                            <li class="nav-item">
+                                <Link class="nav-link active" aria-current="page" to="/electronicEye">4.Electronic Eyes</Link>
+                            </li>
                                                
                         </ul>
                         

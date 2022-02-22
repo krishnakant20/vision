@@ -10,6 +10,7 @@ import About from './components/about/About';
 import OnlineEye from './components/OnlineEye/OnlineEye';
 import AIEye from './components/aieye/AIEye';
 import ColourfullEye from './components/colourful/ColourfullEye';
+import ElectronicEye from './components/electronic/ElectronicEye';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path='/onlineEye' element={<OnlineEye />} />
             <Route path='/aiEye' element={<AIEye />} />
             <Route path='/colourfullEye' element={<ColourfullEye />} />
+            <Route path='/electronicEye' element={<ElectronicEye />} />
             
           </Routes>
         </div>

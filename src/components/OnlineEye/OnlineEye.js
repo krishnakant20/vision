@@ -8,7 +8,7 @@ const OnlineEye = () => {
         <>
             <div className='container my-3'>
 
-                <h3> Idea 1 - Online Eye : We can CREATE app for Indian's, that connects blind and low-vision people with sighted volunteers for visual assistance through a live video call.</h3>
+                <h3> Idea 1 - Online Eye : We can CREATE app for people, that connects blind and low-vision people with sighted volunteers for visual assistance through a live video call.</h3>
                 <div>Important- People can get connected to the "Indian regional speaking language's" volunteers.</div>
                 <hr />
                 <hr />
