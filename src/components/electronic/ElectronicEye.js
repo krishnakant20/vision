@@ -1,12 +1,11 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
-import { Link } from 'react-router-dom'
 import { ExternalLink } from 'react-external-link';
 
 
 const ElectronicEye = () => {
-  return (
-<>
+    return (
+        <>
             <div className='container my-3'>
 
                 <h3> Idea 4 - Electronic Eye </h3>
@@ -23,7 +22,8 @@ const ElectronicEye = () => {
 
             </div>
 
-        </>  )
+
+        </>)
 }
 
 export default ElectronicEye
